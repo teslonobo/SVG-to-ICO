@@ -1,0 +1,4 @@
+_old/
+setup_log.txt
+test.py
+*__pycache__/

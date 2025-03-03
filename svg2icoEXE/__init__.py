@@ -1,0 +1,1 @@
+from svg2icoEXE.svg_ico import SVG2ICO
