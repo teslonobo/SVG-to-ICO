@@ -11,7 +11,7 @@
 ## Table of Contents
 - [Repository Structure](#repo-structure)
 - [Installation](#installation)
-    - [Dependancies](#dependencies)
+    - [Dependencies](#dependencies)
     - [USING EXE](#EXE)
 - [Usage Demo](#example-usage)
     - [EXE Cli](#exe-cli)
@@ -70,7 +70,7 @@ After VENV is activated we will want to create an EXE.
 ```
 python setup.py
 ```
-Sets up User Environment Variable and sets REG keys to use like <a href='#batch-script'>Batch Script</a> example, after completion `setup_log.txt` is created with detailed information on setup. If `setup.py` is skipped then you can only use <a href='#python-cli'>Python Cli</a> and <a href='#modulepackage'>Module/Package</a>.
+Sets up User Environment Variable and sets REG keys to use like <a href='#batch-script'>Batch Script</a> example, after completion `setup_log.txt` is created with detailed information on setup. If `setup.py` is skipped then you can only use <a href='#python-cli'>Python Cli</a> and <a href='#modulepackage'>Module/Package</a> after installing dependencies.
 ## Example Usage
 
 - ### EXE Cli:
